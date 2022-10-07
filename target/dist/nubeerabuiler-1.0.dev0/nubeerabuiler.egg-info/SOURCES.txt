@@ -1,0 +1,9 @@
+helloworld.py
+setup.py
+nubeerabuiler.egg-info/PKG-INFO
+nubeerabuiler.egg-info/SOURCES.txt
+nubeerabuiler.egg-info/dependency_links.txt
+nubeerabuiler.egg-info/namespace_packages.txt
+nubeerabuiler.egg-info/top_level.txt
+nubeerabuiler.egg-info/zip-safe
+scripts/hello-pybuilder

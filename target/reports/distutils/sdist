@@ -1,0 +1,34 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.10' does not exist -- can't clean it
+running sdist
+running egg_info
+creating nubeerabuiler.egg-info
+writing nubeerabuiler.egg-info\PKG-INFO
+writing dependency_links to nubeerabuiler.egg-info\dependency_links.txt
+writing namespace_packages to nubeerabuiler.egg-info\namespace_packages.txt
+writing top-level names to nubeerabuiler.egg-info\top_level.txt
+writing manifest file 'nubeerabuiler.egg-info\SOURCES.txt'
+reading manifest file 'nubeerabuiler.egg-info\SOURCES.txt'
+writing manifest file 'nubeerabuiler.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating nubeerabuiler-1.0.dev0
+creating nubeerabuiler-1.0.dev0\nubeerabuiler.egg-info
+creating nubeerabuiler-1.0.dev0\scripts
+copying files to nubeerabuiler-1.0.dev0...
+copying helloworld.py -> nubeerabuiler-1.0.dev0
+copying setup.py -> nubeerabuiler-1.0.dev0
+copying nubeerabuiler.egg-info\PKG-INFO -> nubeerabuiler-1.0.dev0\nubeerabuiler.egg-info
+copying nubeerabuiler.egg-info\SOURCES.txt -> nubeerabuiler-1.0.dev0\nubeerabuiler.egg-info
+copying nubeerabuiler.egg-info\dependency_links.txt -> nubeerabuiler-1.0.dev0\nubeerabuiler.egg-info
+copying nubeerabuiler.egg-info\namespace_packages.txt -> nubeerabuiler-1.0.dev0\nubeerabuiler.egg-info
+copying nubeerabuiler.egg-info\top_level.txt -> nubeerabuiler-1.0.dev0\nubeerabuiler.egg-info
+copying nubeerabuiler.egg-info\zip-safe -> nubeerabuiler-1.0.dev0\nubeerabuiler.egg-info
+copying scripts\hello-pybuilder -> nubeerabuiler-1.0.dev0\scripts
+Writing nubeerabuiler-1.0.dev0\setup.cfg
+creating dist
+Creating tar archive
+removing 'nubeerabuiler-1.0.dev0' (and everything under it)

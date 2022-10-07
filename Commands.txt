@@ -1,0 +1,14 @@
+virtualenv .env
+.env\Scripts\activate
+pip install -r requirements.txt
+    or    
+pip install pybuilder
+
+pyb --version
+pyb --start-project
+pyb -Q
+    or
+pyb -v
+
+
+tree target/dist
